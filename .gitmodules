@@ -4,3 +4,6 @@
 [submodule "01-ft_linear_regression"]
 	path = 01-ft_linear_regression
 	url = git@github.com:mgkgng/42Projects-ft_linear_regression.git
+[submodule "02-dslr"]
+	path = 02-dslr
+	url = git@github.com:mgkgng/42Projects-dslr.git
